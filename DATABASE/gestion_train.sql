@@ -93,6 +93,7 @@ CREATE OR REPLACE TABLE `user` (
   `email` varchar(250) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+
 -- --------------------------------------------------------
 
 --
